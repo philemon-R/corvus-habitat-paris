@@ -1,0 +1,22 @@
+# --- R ---
+.Rhistory
+.RData
+.Rproj.user/
+.Renviron
+
+# --- renv: lockfile is committed, the library is not ---
+renv/library/
+renv/staging/
+renv/sandbox/
+
+# --- Data ---
+# Raw Movebank downloads and intermediates: large, regenerable, and CC BY-NC
+# (attribution required, redistribution avoided here). See README "Data and licensing".
+data/raw/
+data/interim/
+data/osm/
+data/ocsge/
+
+# --- OS ---
+.DS_Store
+Thumbs.db

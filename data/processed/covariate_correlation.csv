@@ -1,0 +1,11 @@
+a,b,r
+prox_agricultural,prox_water,-0.21
+prox_agricultural,woody_density_200m,-0.28
+prox_water,woody_density_200m,0.07
+prox_agricultural,nonagri_herb_density_200m,-0.36
+prox_water,nonagri_herb_density_200m,0.14
+woody_density_200m,nonagri_herb_density_200m,-0.24
+prox_agricultural,built_density_200m,-0.56
+prox_water,built_density_200m,0.02
+woody_density_200m,built_density_200m,-0.36
+nonagri_herb_density_200m,built_density_200m,0.19
