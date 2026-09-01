@@ -164,7 +164,7 @@ Once, interactively, to store Movebank credentials in the OS keychain rather tha
 move2::movebank_store_credentials("your_movebank_username")
 ```
 
-A Movebank account and a one-time license acceptance are required (`01_download.R` documents how). `DATA_CUTOFF` in `config.R` fixes the last date of GPS data kept, so the download stays reproducible even though the birds are still transmitting; set it to `NULL` to get all fixes up to run time. Scripts then run in numerical order:
+A Movebank account and a one-time license acceptance are required (`01_download.R` documents how). `DATA_CUTOFF` in `config.R` fixes the last date of GPS data kept, so the download stays reproducible even though the birds are still transmitting. However, tags that upload with a delay can backfill fixes dated before the cutoff, so a later re-run may see slightly more fixes than an earlier one. Set it to `NULL` to get all fixes up to run time. Scripts then run in numerical order:
 
 ```bash
 Rscript scripts/01_download.R
