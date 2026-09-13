@@ -193,5 +193,5 @@ The **tracking data is not redistributed here.** It is distributed by Movebank u
 ## Bibliography
 
 - Jiguet, F. & Gantin, C. (2025). Fission–fusion dynamics and spring movements in first-year carrion crows *Corvus corone* challenge the efficiency of culling strategies. *Scientific Reports*, 15, 31068. https://doi.org/10.1038/s41598-025-17175-y
-- Avgar, T., Potts, J.R., Lewis, M.A. & Boyce, M.S. (2016). Integrated step selection analysis: bridging the gap between resource selection and animal movement. *Methods in Ecology and Evolution*, 7, 619–630.
-- Fieberg, J., Matthiopoulos, J., Hebblewhite, M., Boyce, M.S. & Frair, J.L. (2010). Correlation and studies of habitat selection: problem, red herring, or opportunity? *Philosophical Transactions of the Royal Society B*, 365, 2233–2244.
+- Avgar, T., Potts, J.R., Lewis, M.A. & Boyce, M.S. (2016). Integrated step selection analysis: bridging the gap between resource selection and animal movement. *Methods in Ecology and Evolution*, 7, 619–630. https://doi.org/10.1111/2041-210X.12528
+- Fieberg, J., Matthiopoulos, J., Hebblewhite, M., Boyce, M.S. & Frair, J.L. (2010). Correlation and studies of habitat selection: problem, red herring, or opportunity? *Philosophical Transactions of the Royal Society B*, 365, 2233–2244. https://doi.org/10.1098/rstb.2010.0079
